@@ -6,7 +6,7 @@ An implementation of the pagerank algorithm in Node.js
 Setup
 ---
 
-    npm install package-js
+    npm install pagerank-js
     
 Technical tutorial
 ---
